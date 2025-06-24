@@ -1,0 +1,17 @@
+h1{
+	text-align: center;
+}
+img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	top: 50px;
+	bottom: 50px;
+	height: 400px;
+}
+a{	
+	display: block;
+	color: black;
+	text-align: center;
+	margin-top: 20px;
+}
